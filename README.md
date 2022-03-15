@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mikamts
-- 👀 I’m interested in baking, playing genshin impact, and becoming a full-stack programmer. 
-- 🌱 I’m currently learning harvard's cs50 introduction to computer science (online course). Afterwhich, I plan on learning front-end coding (html, css, javascript, etc.). 
-- 💞️ I’m not yet looking for collaborations. However, I can manage with small projects. 
+- 👀 I’m interested in baking, traveling, and becoming an Machine Learner Engineer or Artificial Intelligience programmer. 
+- 🌱 I’m currently learning Java. Afterwhich, I aim on learning java object-oriented programming. 
 - 📫 You can reach me through my twitter account @mikamts_
 
 <!---
