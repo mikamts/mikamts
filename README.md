@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mika! 
-- 👀 I’m interested in baking, traveling, and becoming an Machine Learner Engineer or Artificial Intelligience programmer. 
-- 🌱 I’m currently learning Java. Afterwhich, I aim on learning java object-oriented programming. 
+- 👀 I’m interested in baking, traveling, and becoming a Machine Learner Engineer or Artificial Intelligience programmer. 
+- 🌱 I’m currently learning Python. Afterwhich, I aim on learning data visualization using python! 
 - 💕 I look forward to meeting new friends who share the same passion/ goals!!
 - 📫 You can reach me through my twitter account @mikamts_
 
